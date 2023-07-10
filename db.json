@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "last_name": "Doe",
+      "age": 25
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "last_name": "Smith",
+      "age": 30
+    },
+    {
+      "id": 3,
+      "name": "Alice",
+      "last_name": "Johnson",
+      "age": 35
+    }
+  ]
+}
+
